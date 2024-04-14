@@ -1,0 +1,18 @@
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Modbus\bin\Debug\Modbus.dll
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Modbus\bin\Debug\Modbus.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Modbus\bin\Debug\Common.dll
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Modbus\bin\Debug\Common.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.dll
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\Duska\Desktop\aus\58299d_e651281ea47b4b52b4b9cace11b764f7\dCom-radna-verzija\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\Duska\Desktop\aus\58299d_e651281ea47b4b52b4b9cace11b764f7\dCom-radna-verzija\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\Duska\Desktop\aus\58299d_e651281ea47b4b52b4b9cace11b764f7\dCom-radna-verzija\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\Duska\Desktop\aus\58299d_e651281ea47b4b52b4b9cace11b764f7\dCom-radna-verzija\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\Duska\Desktop\aus\58299d_e651281ea47b4b52b4b9cace11b764f7\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\Duska\Desktop\aus\58299d_e651281ea47b4b52b4b9cace11b764f7\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Duska\Desktop\aus\58299d_e651281ea47b4b52b4b9cace11b764f7\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\Duska\Desktop\aus\58299d_e651281ea47b4b52b4b9cace11b764f7\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\Duska\Desktop\aus\58299d_e651281ea47b4b52b4b9cace11b764f7\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.pdb
